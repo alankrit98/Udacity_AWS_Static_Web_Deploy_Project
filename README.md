@@ -4,7 +4,7 @@
 
 ## Project Details
 * **Student Name:** [Your Name]
-* **S3 Bucket Name:** `my-<account-id>-bucket`
+* **S3 Bucket Name:** `my-9570-3475-2435-bucket`
 * **AWS Region:** `us-east-1`
 
 ## Endpoints (Inactive)
